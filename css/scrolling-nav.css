@@ -17,3 +17,8 @@ section {
   max-width: 200px;
   max-height: 200px;
 }
+
+.banner {
+  background-color: green;
+  color: white;
+}
