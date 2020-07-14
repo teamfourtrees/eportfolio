@@ -15,6 +15,7 @@ section {
 
 .profile-photo {
   max-width: 200px;
+  align-self: center;
 }
 
 .banner {
